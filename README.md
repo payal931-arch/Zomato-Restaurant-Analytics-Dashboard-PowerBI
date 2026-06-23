@@ -51,3 +51,19 @@ This dashboard offers a comprehensive analysis of restaurant ratings, sales tren
 6. Data Visualization and Analysis
 7. Business Insights Generation
 
+   # Dashboard :-
+
+   <img width="1165" height="657" alt="Zomato dashbaord" src="https://github.com/user-attachments/assets/222407c7-a6dd-46fc-a2f8-1d343ca58b12" />
+
+
+   ## 📌 KPIs Used
+
+- Total Restaurants
+- Average Rating
+- Total Votes
+- Online Delivery Availability
+- Table Booking Availability
+- Cuisine Distribution
+- City-wise Restaurant Count
+- 
+
